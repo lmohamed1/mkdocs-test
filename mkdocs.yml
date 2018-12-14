@@ -1,0 +1,13 @@
+site_name: My Docs
+theme:
+  name: 'material'
+  logo:
+    icon: 'visibility'
+  palette:
+    primary: 'red'
+    accent: 'red'
+nav:
+  - Accueil: index.md
+  - Installation: installation.md
+~
+~
